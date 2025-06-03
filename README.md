@@ -63,3 +63,6 @@ omoloagelor din biblioteca standard C (strcmp, strcpy, strlen). Pentru procesul
 recursiv de concatenare este folosită o funcție de backtracking, care verifică
 fiecare combinație de cuvinte și dacă reprezintă un rezultat mai bun, îl
 salvează în bufferul final, a cărui adresă este returnată la final. </p>
+
+<b> Copyright 2025 © Andrei-Marcel Bădulescu. All rights reserved. </b>
+
